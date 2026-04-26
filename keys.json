@@ -1,0 +1,10 @@
+{
+  "keys": {
+    "AZIMUTEK": {
+      "type": "infinite",
+      "expiry": null,
+      "used": false,
+      "hwid": null
+    }
+  }
+}
