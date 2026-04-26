@@ -5,6 +5,12 @@
       "expiry": null,
       "used": false,
       "hwid": null
+    },
+    "TEST123": {
+      "type": "normal",
+      "expiry": null,
+      "used": false,
+      "hwid": null
     }
   }
 }
